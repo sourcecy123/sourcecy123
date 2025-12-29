@@ -20,5 +20,4 @@ A software developer with expertise in Windows App and Backend Development, as w
 | Project Name | Description | Tech Stack | Type |
 | :--- | :--- | :--- | :--- |
 | **Construction Project Management System** | A comprehensive system for managing construction workflows, including purchasing, manpower allocation, and tracking for site supervisors. Features a full CRUD admin and accounting support. | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) | 🎓 Final Project |
-
 | **Line OA & HR Chatbot** | Developed dual chatbots for **VAVA Pack Co., Ltd.** capable of handling calendar scheduling and HR inquiries. Integrated with Google ecosystem for seamless data management. |![Google Apps Script](https://img.shields.io/badge/Google%20Script-4285F4?style=flat-square&logo=google&logoColor=white) | 💼 Internship |
