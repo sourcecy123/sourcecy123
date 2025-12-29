@@ -7,10 +7,18 @@ A software developer with expertise in Windows App and Backend Development, as w
 
 # 💻 Tech Stack:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sourcecy123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sourcecy123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sourcecy123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sourcecy123&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+---
+
+## 📂 Featured Projects
+
+| Project Name | Description | Tech Stack | Type |
+| :--- | :--- | :--- | :--- |
+| **Construction Project Management System** | A comprehensive system for managing construction workflows, including purchasing, manpower allocation, and tracking for site supervisors. Features a full CRUD admin and accounting support. | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) | 🎓 Final Project |
+
+| **Line OA & HR Chatbot** | Developed dual chatbots for **VAVA Pack Co., Ltd.** capable of handling calendar scheduling and HR inquiries. Integrated with Google ecosystem for seamless data management. |![Google Apps Script](https://img.shields.io/badge/Google%20Script-4285F4?style=flat-square&logo=google&logoColor=white) | 💼 Internship |
