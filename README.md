@@ -1,5 +1,5 @@
 # 💫 About Me:
-A software developer with expertise in Windows App and Backend Development, as well as AI Prompt Engineering. I am enthusiastic about learning new technologies and possess Good communication skills in both Thai and English 
+A software developer with "Passion" in Windows App and Backend Development, as well as AI Prompt Engineering. I am enthusiastic about learning new technologies and possess Good communication skills in both Thai and English Currently learning Japanese and new programing language
 
 
 ## 🌐 Socials:
